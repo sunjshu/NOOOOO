@@ -176,3 +176,102 @@ PS C:\Users\sunjs\OneDrive\Рабочий стол\GIT>
 
 
 ```
+
+
+```bash
+PS C:\Users\sunjs\OneDrive\Рабочий стол\GIT> history
+
+  Id CommandLine
+  -- -----------
+   1 git status
+   2 git add .
+   3 git status
+   4 cat README.md
+   5 chcp 65001
+   6 cat README.md
+   7 chcp 866
+   8 cat README.md
+   9 chcp 1271
+  10 chcp 1251
+  11 cat README.md
+  12 chcp 65001
+  13 cat README.md
+  14 chcp 1252
+  15 cat README.md
+  16 cat README.md
+  17 git add .
+  18 chcp 65001
+  19 chcp 1251
+  20 chcp 866
+  21 git commit -m "Инрукция"
+  22 git status
+  23 git add .
+  24 git commit - m "Инструкция"
+  25 git commit -m "Инструкция"
+  26 git add .
+  27 git commit -m "Инструкция 2"
+  28 git status
+  29 git log
+  30 cat README.md
+  31 git add .
+  32 git commit -m "ИНструкция 3"
+  33 git branch branch1
+  34 git checkout branch1
+  35 git branch
+  36 git checkout -b branch2
+  37 git checkout -b branch3
+  38 git checkout -b branch4
+  39 git add .
+  40 git commit -m "Modify Branch4"
+  41 git checkout branch1
+  42 git add .
+  43 git commit -m "Modify Branch1"
+  44 git checkout -b branch2
+  45 git checkout branch2
+  46 git add .
+  47 git commit -m "Modify Branch2"
+  48 git checkout branch3
+  49 git add .
+  50 git commit -m "Modify Branch3"
+  51 git checkout master
+  52 git merge branch1
+  53 git merge branch2
+  54 git merge branch3
+  55 git merge branch4
+  56 git log --graph
+  57 git log --graph | graph.md
+  58 git log --graph | touch graph.md
+  59 git add .
+  60 git commit -m "graph"
+  61 git checkout branch1
+  62 git status
+  63 git add .
+  64 git commit -m "Добавили к инструкции 1"
+  65 git checkout branch2
+  66 git add .
+  67 git commit -m "Добавили к инструкции 2"
+  68 git checkout branch3
+  69 git add .
+  70 git commit -m "Добавили к инструкции 3"
+  71 git checkout branch4
+  72 git add .
+  73 git commit -m "Добавили к инструкции 4"
+  74 git checkout master
+  75 git merge branch1
+  76 git merge branch2
+  77 git add .
+  78 git commit -m 'merge branch2 into master'
+  79 git merge branch3
+  80 git add .
+  81 git commit -m 'merge branch3 into master'
+  82 git merge branch4
+  83 git add .
+  84 git commit -m 'merge branch4 into master'
+  85 cat README.md
+  86 git add .
+  87 git commit -m 'graph.md'
+  88 git history
+
+
+PS C:\Users\sunjs\OneDrive\Рабочий стол\GIT>
+```
