@@ -59,3 +59,5 @@ git log
 [подробнее можно почитать по этой ссылке](https://habr.com/ru/post/541258/)
 
 [и по этой](https://habr.com/ru/post/542616/)
+
+git checkout
